@@ -51,6 +51,8 @@ INSTALLED_APPS = [
     "location",
     "wallet",
     "task_category",
+    "chat",
+    "chat_user_profile",
 ]
 LOCAL_APPS = [
     "home",
